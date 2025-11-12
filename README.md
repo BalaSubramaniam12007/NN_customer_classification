@@ -1,4 +1,3 @@
-# Developing a Neural Network Classification Model
 
 ## AIM
 
@@ -187,12 +186,12 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 <img width="1239" height="225" alt="image" src="https://github.com/user-attachments/assets/8dc0539c-85da-46e3-a8a2-c66fbd63fa6d" />
 
 ## OUTPUT
-
-<img width="639" height="547" alt="image" src="https://github.com/user-attachments/assets/9d8b8eb2-4482-451d-a807-a69deaaaf210" />
+<img width="684" height="571" alt="image" src="https://github.com/user-attachments/assets/947f8164-977f-403b-b1ec-9d96594cfd24" />
 
 ### Confusion Matrix
+<img width="201" height="113" alt="image" src="https://github.com/user-attachments/assets/84808de1-ca8e-4270-a4b1-fdc1467e2745" />
 
-<img width="210" height="121" alt="image" src="https://github.com/user-attachments/assets/8d59881b-93a2-43f8-9482-5d6392ba065e" />
+
 
 
 ### Classification Report
